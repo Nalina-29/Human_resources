@@ -9,7 +9,7 @@ public class HrheadTest {
 		System.out.println("-- add admin --");
 	}
 
-	@Test
+	@Test(groups="Smoke")
 	public void addempl()
 	{
 		System.out.println("-- add Employee --");

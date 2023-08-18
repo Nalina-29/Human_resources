@@ -9,7 +9,7 @@ public class HrOfficerTest {
 		System.out.println("add the branch");
 	}
 
-	@Test(groups = "smoke")
+	@Test(groups = "Smoke")
 	public void Addcorporate()
 	{
 		System.out.println("Add the corporate");
