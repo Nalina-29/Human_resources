@@ -14,4 +14,9 @@ public class HrOfficerTest {
 	{
 		System.out.println("Add the corporate");
 	}
+	@Test
+	public void Addpatient()
+	{
+		System.out.println("Add the Patient");
+	}
 }
